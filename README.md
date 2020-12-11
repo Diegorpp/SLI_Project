@@ -32,7 +32,7 @@ Integrantes do grupo:<br>
 Criar um Sistema de informação para otimizar as atividades da empresa, controlar as viagens realizadas e permitir a venda de bilhetes pela internet.
 
 #### <b>Visão</b>:
-Segue aqui a visão do projeto
+A nossa função é ajudar as empresas de transporte de todo o mundo a concretizar o máximo do seu potencial.
 
 #### <b>Missão</b>:
 Segue aqui a missão do projeto
