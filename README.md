@@ -26,10 +26,10 @@ Integrantes do grupo:<br>
 <br>
 
 ---
-### Projeto batata
+### Projeto Asatur
 
 #### <b>Objetivos</b>:
-Segue aqui os objetivos do projeto
+Criar um Sistema de informação para otimizar as atividades da empresa, controlar as viagens realizadas e permitir a venda de bilhetes pela internet.
 
 #### <b>Visão</b>:
 Segue aqui a visão do projeto
