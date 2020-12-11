@@ -32,10 +32,10 @@ Integrantes do grupo:<br>
 Criar um Sistema de informação para otimizar as atividades da empresa, controlar as viagens realizadas e permitir a venda de bilhetes pela internet.
 
 #### <b>Visão</b>:
-A nossa função é ajudar as empresas de transporte de todo o mundo a concretizar o máximo do seu potencial.
+Visão
 
 #### <b>Missão</b>:
-Segue aqui a missão do projeto
+A nossa função é ajudar as empresas de transporte de todo o mundo a concretizar o máximo do seu potencial.
 
 #### <b>Critérios de Sucesso</b>:
 Os critérios de sucesso são critérios que descrevem efeitos fora da própria solução para que o projeto tenha sucesso.
