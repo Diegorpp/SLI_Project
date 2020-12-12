@@ -30,12 +30,16 @@ Ser o principal sistema de informação para empresas de transporte e viajem.
 A nossa função é ajudar as empresas de transporte de todo o mundo a concretizar o máximo do seu potencial.
 
 #### <b>Critérios de Sucesso</b>:
-Os critérios de sucesso são critérios que descrevem efeitos fora da própria solução para que o projeto tenha sucesso.
+O projeto terá sucesso se atender a todos os critérios de aceitação da entrega, respeitar as restrições e cumprir o cronograma de execução e principalmente atender os objetivos abaixo:<br>
+Criar um novo sistema de Registros;<br>
+Criar uma aplicação para vendas online de bilhetes e<br>
+Criar um sistema de controle de Viagens realizadas.
+
 
 #### <b>Stakeholders</b>:
 <b> Internos: </b>
-Analistas de Sistemas
-Desenvolvedores
+Analistas de Sistemas<br>
+Desenvolvedores<br>
 CTO
 
 <b>Externos: </b>
