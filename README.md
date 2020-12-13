@@ -17,56 +17,82 @@ Integrantes do grupo:<br>
 7. [Orçamento do projeto](#orcamento)
 8. [Link do Kanban](#kanban)
 
-
-### Projeto Asatur
-
-#### <b>Objetivos</b>: <a name="objetivos"></a>
-Criar um Sistema de informação para otimizar as atividades da empresa, controlar as viagens realizadas e permitir a venda de bilhetes pela internet.
-
-#### <b>Visão</b>:
-Ser o principal sistema de informação para empresas de transporte e viajem.
-
-#### <b>Missão</b>:
-A nossa função é ajudar as empresas de transporte de todo o mundo a concretizar o máximo do seu potencial.
-
-#### <b>Critérios de Sucesso</b>:
-O projeto terá sucesso se atender a todos os critérios de aceitação da entrega, respeitar as restrições e cumprir o cronograma de execução e principalmente atender os objetivos abaixo:<br>
-Criar um novo sistema de Registros;<br>
-Criar uma aplicação para vendas online de bilhetes e<br>
-Criar um sistema de controle de Viagens realizadas.
+## Apêndice
+1. [Termo de Abertura](#abertura)
+2. [Canvas BMC](#canvas)
+3. [Backlog](#backlog)
+4. [Prototipo](#prototipo)
 
 
-#### <b>Stakeholders</b>:
-<b> Internos: </b>
-Analistas de Sistemas<br>
-Desenvolvedores<br>
-CTO
+## Projeto Asatur
 
-<b>Externos: </b>
+### <b>Objetivos</b>: <a name="objetivos"></a>
+    Criar um Sistema de informação para otimizar as atividades da empresa, controlar as viagens realizadas e permitir a venda de bilhetes pela internet.
+
+### <b>Visão/Justificativas</b>: <a name="justificativas"></a>
+    O projeto visa facilitar a gestão da empresa e a compra de bilhetes pelo cliente.
+
+### <b>Missão/Descrição preliminar</b>: <a name="preliminar"></a>
+    O projeto Asatur terá um sistema de compra de bilhetes via web, com isso o cliente não terá que ligar ou ter que vir pessoalmente agendar viagens. Na parte de gestão mudaremos a forma de registro para acabar com as perdas do mesmo e criaremos um sistema de controle das viagens realizadas.
+
+### <b>Critérios de Sucesso</b>: <a name="sucesso"></a>
+    O projeto terá sucesso se atender a todos os critérios de aceitação da entrega, respeitar as restrições e cumprir o cronograma de execução e principalmente atender os objetivos abaixo:<br>
+    - Criar um novo sistema de Registros;<br>
+    - Criar uma aplicação para vendas online de bilhetes e<br>
+    - Criar um sistema de controle de Viagens realizadas.
+
+### <b>Stakeholders</b>:<br> <a name="interessandos"></a>
+1. <b> Internos: </b> <br>
+
+Empresa | Participante | Função
+:-------|:------------:|------:
+LSI | Diego Rodrigo Perez Pacheco | Analista/Desenvolvedor
+LSI | Felipe Gante Maia de Sousa |Analista/Desenvolvedor
+LSI | Marta | CTO
+
+<br>
+
+2. <b>Externos: </b> <br>
 Cliente (El Shaddai)
 
-#### <b>Link do kanban</b>: <a name="kanban"></a>
+### <b>Riscos</b>: <a name="riscos"></a>
+
+    - Enfermidades dos participantes do projeto
+    - Problema nos equipamentos utilizados para desenvolvimento do sistema.
+
+
+### <b>Orçamento do projeto </b>: <a name="orcamento"></a>
+
+    Preço do Projeto: R$ 120.000,00
+
+### <b>Link do kanban</b>: <a name="kanban"></a>
 [Kanban](https://github.com/Diegorpp/SLI_Project/projects/1)
 <br><br>
 
-#### Termo de Abertura
+---
+
+### Termo de Abertura <a name="abertura"></a>
 [Termo de Abertura](https://drive.google.com/file/d/19qzwzdCHetw09FWie09dRQ1c3oq_qk2B/view?usp=sharing)
 <br><br>
 
-#### Canvas
+### Canvas <a name="canvas"></a>
+![imagem](images/BMC.png) <br>
 [Project Model Canvas](https://docs.google.com/drawings/d/19tcHYSeKz3_GcH33DzzTEcRx1yo6b_2mGUglC-0_GeY/edit?usp=sharing)
 <br><br>
 
-### Product Backlog
+### Product Backlog <a name="backlog"></a>
 Segue a planilha com o tempo utilizado para realização das atividades. <br>
 [Gerenciamento do tempo das atividades](https://docs.google.com/spreadsheets/d/1S-XMt6AnhDgEYh_sVSNM7tQE1HcXYvMCAWFBtgd8L8o/edit?usp=sharing) <br>
 [Issues relacionadas ao projeto](https://github.com/Diegorpp/SLI_Project/issues)
 <br><br>
 
-### Prototipo
-[Protitipo do Projeto Asatur]()
+### Prototipo <a name="prototipo"></a>
+[Protitipo do Cliente]() <br>
+[Protitipo do Administrador]()
+
 ---
-### Entrega 1:
+
+### Entrega 1: <a name="preliminar"></a>
 Data: 13/12/2020 <br>
 Objetivos a serem realizados.
 
