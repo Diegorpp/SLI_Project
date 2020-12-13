@@ -77,7 +77,7 @@ Cliente (El Shaddai)
 
 ### Canvas <a name="canvas"></a>
 ![imagem](images/BMC.png) <br>
-[Project Model Canvas](https://docs.google.com/drawings/d/19tcHYSeKz3_GcH33DzzTEcRx1yo6b_2mGUglC-0_GeY/edit?usp=sharing)
+[Business Model Canvas](https://drive.google.com/file/d/15vdEhjcjtCfVnrXo-b4ZOrD2R4Ravghv/view?usp=sharing)
 <br><br>
 
 ### Product Backlog <a name="backlog"></a>
