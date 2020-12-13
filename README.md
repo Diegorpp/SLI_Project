@@ -36,9 +36,9 @@ Integrantes do grupo:<br>
     O projeto Asatur terá um sistema de compra de bilhetes via web, com isso o cliente não terá que ligar ou ter que vir pessoalmente agendar viagens. Na parte de gestão mudaremos a forma de registro para acabar com as perdas do mesmo e criaremos um sistema de controle das viagens realizadas.
 
 ### <b>Critérios de Sucesso</b>: <a name="sucesso"></a>
-    O projeto terá sucesso se atender a todos os critérios de aceitação da entrega, respeitar as restrições e cumprir o cronograma de execução e principalmente atender os objetivos abaixo:<br>
-    - Criar um novo sistema de Registros;<br>
-    - Criar uma aplicação para vendas online de bilhetes e<br>
+    O projeto terá sucesso se atender a todos os critérios de aceitação da entrega, respeitar as restrições e cumprir o cronograma de execução e principalmente atender os objetivos abaixo:
+    - Criar um novo sistema de Registros;
+    - Criar uma aplicação para vendas online de bilhetes e
     - Criar um sistema de controle de Viagens realizadas.
 
 ### <b>Stakeholders</b>:<br> <a name="interessandos"></a>
@@ -87,8 +87,8 @@ Segue a planilha com o tempo utilizado para realização das atividades. <br>
 <br><br>
 
 ### Prototipo <a name="prototipo"></a>
-[Protitipo do Cliente]() <br>
-[Protitipo do Administrador]()
+[Protótipo do Administrador](https://github.com/Diegorpp/SLI_Project/blob/main/Protipo/Mobile-adiministrator%20assatur.pdf) <br>
+[Protótipo do Cliente](https://github.com/Diegorpp/SLI_Project/blob/main/Protipo/Mobile-cliente%20assatur.pdf)
 
 ---
 
@@ -102,3 +102,5 @@ Objetivos a serem realizados.
 * Apresentação do trabalho (vídeo ou reunião online);
 * Prototipagem utilizando alguma ferramenta, como por exemplo: Balsamiq;
 * Usar Kanban por meio de alguma ferramenta, como por exemplo: Trello;
+
+[Apresentação da primeira entrega do trabalho]()
