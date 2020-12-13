@@ -87,6 +87,8 @@ Segue a planilha com o tempo utilizado para realização das atividades. <br>
 <br><br>
 
 ### Prototipo <a name="prototipo"></a>
+Para utilizar os PDFs de forma interativa faça download dos mesmos, dentro da plataforma do github essa funcionalidade não está habilitada.
+
 [Protótipo do Administrador](https://github.com/Diegorpp/SLI_Project/blob/main/Protipo/Mobile-adiministrator%20assatur.pdf) <br>
 [Protótipo do Cliente](https://github.com/Diegorpp/SLI_Project/blob/main/Protipo/Mobile-cliente%20assatur.pdf)
 
