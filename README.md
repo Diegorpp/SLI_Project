@@ -49,6 +49,10 @@ Cliente (El Shaddai)
 [Kanban](https://github.com/Diegorpp/SLI_Project/projects/1)
 <br><br>
 
+#### Termo de Abertura
+[Termo de Abertura](https://drive.google.com/file/d/19qzwzdCHetw09FWie09dRQ1c3oq_qk2B/view?usp=sharing)
+<br><br>
+
 #### Canvas
 [Project Model Canvas](https://docs.google.com/drawings/d/19tcHYSeKz3_GcH33DzzTEcRx1yo6b_2mGUglC-0_GeY/edit?usp=sharing)
 <br><br>
