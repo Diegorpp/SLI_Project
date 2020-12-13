@@ -103,4 +103,4 @@ Objetivos a serem realizados.
 * Prototipagem utilizando alguma ferramenta, como por exemplo: Balsamiq;
 * Usar Kanban por meio de alguma ferramenta, como por exemplo: Trello;
 
-[Apresentação da primeira entrega do trabalho]()
+[Apresentação da primeira entrega do trabalho](https://youtu.be/bMeAvu5CQUM)
